@@ -1,0 +1,12 @@
+{ "name": "pop-ga"
+, "description": "Provides a Google Analytics helper to Pop sites."
+, "version": "0.1.0"
+, "author": "George Ornbo <george@shapeshed.com>"
+, "engines": ["node >= 0.4.7"]
+, "main": "./lib/index.js"
+, "repository": {
+    "type" : "git"
+  , "url" : "https://github.com/shapeshed/pop-ga.git"
+  }
+}
+
