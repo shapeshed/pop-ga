@@ -1,6 +1,6 @@
 # pop-ga
 
-A Google Analytics plugin for [pop][1], a static site generator for [node.js][2]
+A [Google Analytics][1] plugin for [pop][2], a static site generator for [node.js][3]
 
 ## Installation
 
@@ -42,5 +42,8 @@ Your template might look something like
         !{ga('UA-345678-90')}
       body
 
-[1]: http://popjs.com
-[2]: http://nodejs.org
+The plugin will generate the default Google Analytics code for you. 
+
+[1]: http://www.google.com/analytics/
+[2]: http://popjs.com
+[3]: http://nodejs.org
