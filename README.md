@@ -8,11 +8,11 @@ Install from npm
 
     npm install -g pop-ga
 
-Then add it as a dependency to your pop site. In you \_config file add 
+Then add it as a dependency to your pop site. In your \_config.json file add 
 
     , "require": ["pop-ga"]
 
-Your \_config file might look something like this
+Your \_config.json file might look something like this
 
     {  "url": "http://yoursite.com"
      , "title": "Your Site"
